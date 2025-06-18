@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">LaboratorioCalificado03</string>
-    <string name="teachers_list">Lista de profesores</string>
+    <string name="app_name">Profesores Tecsup</string>
+    <string name="teacher_name">Nombre Apellido</string>
+    <string name="teacher_photo">Foto del profesor</string>
+    <string name="error_fetch">Error obteniendo profesores</string>
+    <string name="email_subject">Consulta de alumno</string>
+    <string name="email_error">No hay apps de correo instaladas</string>
+    <string name="list_teacher_content_description">Lista de profesores</string>
 </resources>

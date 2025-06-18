@@ -1,4 +1,5 @@
 package com.gonzales.liam.laboratoriocalificado03
 
-class TeachersListResponse {
-}
+data class TeachersListResponse(
+    val teachers: List<TeacherResponse>
+)
